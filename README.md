@@ -22,4 +22,15 @@ Rate your comfort and choose the matching activity
 
 - Which resource did you choose to use?
 
+    - I tired the Bonuses.
+
 - What are three things you learned during this lab?
+
+    - I learned the syntax of SQL and how to use it as a stand alone tool/resource.
+
+    - Other programming languages are (internally) written to 
+be more efficient at retrieving data; the positive
+side of SQL.
+
+    - Seems like keywords may or may not be properly highlighted when 
+using a text editor, terminal use not much helpful either.
