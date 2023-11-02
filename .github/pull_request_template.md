@@ -2,7 +2,7 @@
 
 ## Completion 1 -5
 
-My self-assessed completion score is \_\_\_\_
+My self-assessed completion score is \5
 
 5: I did everything required and attempted at least one bonus
 
@@ -16,7 +16,7 @@ My self-assessed completion score is \_\_\_\_
 
 ## Comfort 1- 5
 
-My self-assessed comfort score is \_\_\_\_
+My self-assessed comfort score is \_5
 
 5: This assignment was a breeze! I want more challenges
 
@@ -30,11 +30,13 @@ My self-assessed comfort score is \_\_\_\_
 
 ## Wins
 
-Please list any wins:
+Please list any wins: I was able to look at more than one file to see not only the content on each but the overlapping subsets of one to another and the relationships they formed.
 
 ## Struggles
 
-Please list any specific struggles
+Please list any specific struggles 
+
+using sql I was able to view some bonus work with these resources.
 
 ## Other comments
 
